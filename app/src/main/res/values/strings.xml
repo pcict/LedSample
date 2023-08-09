@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LedSample</string>
+    <string name="bt_onoff">On/Off</string>
+</resources>
